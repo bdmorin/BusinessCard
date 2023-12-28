@@ -13,7 +13,7 @@
 ## Usage
 
 ```bash
-curl -sL bit.ly/2AtVaXR
+curl -sL https://raw.githubusercontent.com/bdmorin/BusinessCard/master/business_card
 ```
 
 ## Contribute
